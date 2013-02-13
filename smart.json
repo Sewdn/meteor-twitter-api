@@ -1,5 +1,5 @@
 {
-  "name": "meteor-api",
+  "name": "twitter-api",
   "description": "Twitter API wrapper using OAuth1Binding of Meteor Twitter Service",
   "homepage": "https://github.com/Sewdn/meteor-twitter-api",
   "author": "Pieter Soudan",
