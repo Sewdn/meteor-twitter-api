@@ -1,0 +1,17 @@
+<head>
+  <title>Twitter API Basic example</title>
+</head>
+
+<body>
+    <h1>Basic Twitter API follow me example</h1>
+    {{>basic}}
+</body>
+
+<template name="basic">
+    {{#if currentUser}}
+        welcome {{currentUser.profile.name}}
+        <div class='button followme'>Follow me</div>
+    {{else}}
+      {{loginButtons}}
+    {{/if}}
+</template>
