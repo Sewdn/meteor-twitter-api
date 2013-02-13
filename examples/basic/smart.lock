@@ -7,12 +7,12 @@
   "dependencies": {
     "basePackages": {
       "twitter-api": {
-        "path": "../../"
+        "path": "../.."
       }
     },
     "packages": {
       "twitter-api": {
-        "path": "../../"
+        "path": "../.."
       }
     }
   }
