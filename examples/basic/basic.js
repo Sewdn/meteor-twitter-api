@@ -2,6 +2,9 @@ if (Meteor.isClient) {
   Template.basic.events({
     'click .followme' : function () {
       Meteor.call('followMe');
+    },
+    'click .logout' : function () {
+      Meteor.logout();
     }
   });
 }
