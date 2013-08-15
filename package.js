@@ -6,6 +6,7 @@ Package.on_use(function (api, where) {
   api.use([
     'accounts-twitter'
   ], 'server');
+  api.export && api.export('Twitter', 'server');
 
   api.add_files(['lib/twitter.js'], 'server');
 });
