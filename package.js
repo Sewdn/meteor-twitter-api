@@ -8,6 +8,8 @@ Package.on_use(function (api, where) {
   ], 'server');
 
   api.add_files(['lib/twitter.js'], 'server');
+
+  api.export('Twitter');
 });
 
 Package.on_test(function (api) {
