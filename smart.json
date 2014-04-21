@@ -4,7 +4,7 @@
   "homepage": "https://github.com/Sewdn/meteor-twitter-api",
   "author": "Pieter Soudan",
   "version": "0.1.0",
-  "git": "https://github.com/Sewdn/meteor-twitter-api.git",
+  "git": "https://github.com/jamesfebin/meteor-twitter-api.git",
   "packages": {
   }
 }
