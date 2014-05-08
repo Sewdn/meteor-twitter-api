@@ -3,9 +3,7 @@ Meteor Twitter API Package
 
 meteor-twitter-api is a simple package to wrap the Twitter API using Meteor's Twitter Service OAuth1Binding class.
 
-Latest Version: **0.1.1**
-
-Previous Version: 0.1.0
+Latest Version: **0.1.2**
 
 ## Install
 
