@@ -9,7 +9,7 @@ Latest Version: **0.1.2**
 
 To install in a new project:
 ```bash
-> mrt add twitter-api
+> meteor add sewdn:twitter-api
 ```
 
 To update an existing project:
